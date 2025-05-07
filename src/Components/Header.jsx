@@ -87,7 +87,7 @@ function Header() {
 
     return (
         <header>
-        <h1><a href="/">MARQ.</a><span>CODES</span></h1>
+        <h1><a href="/https://marq-codes.github.io/Marq.codes/">MARQ.</a><span>CODES</span></h1>
         <nav>
           <div className="menu-toggle" id="show-menu" onClick={toggleMenu}>
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" width="30" height="30" fill="#111447">
